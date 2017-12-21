@@ -1,0 +1,23 @@
+{
+  "name": "mangascrape",
+  "version": "1.0.0",
+  "description": "MangaFreak Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedenbangkit/mangascrape.git"
+  },
+  "keywords": [
+    "Manga",
+    "Scraper"
+  ],
+  "author": "Deden Bangkit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dedenbangkit/mangascrape/issues"
+  },
+  "homepage": "https://github.com/dedenbangkit/mangascrape#readme"
+}
